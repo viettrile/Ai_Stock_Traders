@@ -67,5 +67,6 @@ Tầng trung gian giữa data layer và presentation layer
 5. lib/router: Handle router và navigation cho app.
 
 Cài đặt: 
-Clone theo link github: 
-chajy 
+Clone theo link github: https://github.com/viettrile/Ai_Stock_Traders.git
+Thực hiện lệnh: "flutter pub get" 
+Run project: flutter run
