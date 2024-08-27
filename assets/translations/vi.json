@@ -1,0 +1,54 @@
+{
+    "all": "Tất cả",
+    "newlyCreated": "Mới tạo",
+    "complete": "Hoàn thành",
+    "processing": "Đang xử lý",
+    "reject": "Từ chối",
+    "warehouseReceipt": "Danh sách phiếu giao dịch kho",
+    "search": "Tìm kiếm",
+    "transactionHeaderCode": "Mã phiếu: {transactionHeaderCode}",
+    "createdBy" :"Người nhập: {createdBy}",
+    "transactionHeaderLicensePlates": "Biển số xe: {transactionHeaderLicensePlates}",
+    "transactionHeaderDriver": "Tên tài xế: {transactionHeaderDriver}",
+    "transactionHeaderDriverIdentity" :"CCCD/GPLX: {transactionHeaderDriverIdentity}",
+    "status": "Trạng thái",
+    "searchSupplier": "Tìm theo nhà cung cấp/ Khách hàng",
+    "warehouseReceiptDetail": "Chi tiết phiếu nhập kho" ,
+    "cancel": "Hủy",
+    "inputSupplier": "Nhập tên nhà cung cấp/ Khách hàng",
+    "searchInventory": "Tìm theo kho",
+    "inputInventory": "Nhập tên kho",
+    "login": "Đăng nhập",
+    "register" : "Đăng ký",
+    "forgetPassword": "Quên mật khẩu?",
+    "error": "lỗi",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "companyCode": "Mã công ty",
+    "forgotPassword": "Quên mật khẩu ?",
+    "noData": "Không có dữ liệu",
+    "noti": "Thông báo",
+    "pickImage": "Chọn ảnh",
+    "takePhoto": "Chụp ảnh",
+    "saveButton": "Lưu",
+    "infoReceipt":"Thông tin phiếu",
+    "view":"Xem",
+    "seeMore": "Xem thêm",
+    "inventoryWarehouseName":"Kho nhập: {inventoryWarehouseName}",
+    "picObject":"Nhân viên phụ trách: {picObject}",
+    "temporary":"Nhập tạm",
+    "seeLess": "Ẩn bớt",
+    "allDataLoaded": "Đã tải hết dữ liệu",
+    "pleaseEnterUsernamePassword": "Vui lòng nhập cả tên người dùng và mật khẩu",
+    "enterUserName" : "Vui lòng nhập tên người dùng",
+    "enterPassword": "Vui lòng nhập mật khẩu",
+    "confirmPassword" :"Xác nhận mật khẩu",
+    "email": "Email"
+
+   
+
+    
+    
+    
+
+}
